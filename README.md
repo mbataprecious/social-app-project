@@ -1,4 +1,6 @@
-## PreciousChat app, this is the frontend of the application build with react, Mui and redux and hosted with firebase
+:computer: ### PreciousChat app 
+this is the frontend of the application build with react, Mui and redux and hosted with firebase
+View the live app [here](https://socialapp-169f4.web.app/)
 
 ## 1: API Base URL
 
