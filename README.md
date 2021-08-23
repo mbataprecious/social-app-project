@@ -1,6 +1,9 @@
 # :computer: PreciousChat app 
 this is the frontend of the application build with react, Mui and redux and hosted with firebase
+
 View the live app [here](https://socialapp-169f4.web.app/)
+
+![view image](https://github.com/mbataprecious/social-app-project/raw/main/public/img1.png)
 
 ## 1: API Base URL
 
